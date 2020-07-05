@@ -1,4 +1,4 @@
-# web_scraper
+# web-scraper
 Simple web scraper of the [Cal Newport's](https://www.calnewport.com), who is my favourite writer, where he started writing from 2007.\
 The web scraper creates a json file where the titles of blogs + their links are saved.
 
